@@ -1,2 +1,2 @@
-kjsdhfkjhskjdf''
-'sdfnsjdfkn'
+x = "achntya very chalak bro"
+print(x)
